@@ -113,13 +113,13 @@ font-size: var(--sm-fs);
 
 .section-2 {  
     display: flex;
+    justify-content: center;
     align-items: center;
     text-align: center;
     background-image:url(../image/Rectangle\ 290.png);
+    max-width:1920px ;
     height: 557px;
     background-repeat: no-repeat;
-    
-    
     margin: 60px 0 130px;
 }
 .section-2 .text2 {
